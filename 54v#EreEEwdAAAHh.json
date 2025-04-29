@@ -1,1 +1,5482 @@
-
+{
+  "Kanto": [
+    {
+      "location": "Route 1",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 2",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 3",
+      "pokemon": [
+        {
+          "alpha": "nidorina",
+          "alpha_moveSet": [
+            "Sludge Bomb",
+            "Crunch",
+            "Super Fang",
+            "Thunderbolt"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 4",
+      "pokemon": [
+        {
+          "alpha": "jigglypuff",
+          "alpha_moveSet": [
+            "Seismic Toss",
+            "Counter",
+            "Endeavor",
+            "Magic Coat"
+          ]
+        },
+        {
+          "alpha": "fearow",
+          "alpha_moveSet": [
+            "Drill Peck",
+            "Heat Wave",
+            "Drill Run",
+            "Work Up"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 5",
+      "pokemon": [
+        {
+          "alpha": "persian",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Foul Play",
+            "Power Gem",
+            "Swagger"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 6",
+      "pokemon": [
+        {
+          "alpha": "hypno",
+          "alpha_moveSet": [
+            "Psychic",
+            "Drain Punch",
+            "Shadow Ball",
+            "Skill Swap"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 7",
+      "pokemon": [
+        {
+          "alpha": "arcanine",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Dragon Pulse",
+            "Extreme Speed",
+            "Will-O-Wisp"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 8",
+      "pokemon": [
+        {
+          "alpha": "arcanine",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Close Combat",
+            "Extreme Speed",
+            "Will-O-Wisp"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 9",
+      "pokemon": [
+        {
+          "alpha": "nidorino",
+          "alpha_moveSet": [
+            "Poison Jab",
+            "Megahorn",
+            "Drill Run",
+            "Ice Beam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 10",
+      "pokemon": [
+        {
+          "alpha": "venomoth",
+          "alpha_moveSet": [
+            "Bug Buzz",
+            "Toxic Spikes",
+            "Roost",
+            "Whirlwind"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 11",
+      "pokemon": [
+        {
+          "alpha": "arbok",
+          "alpha_moveSet": [
+            "Gunk Shot",
+            "Sucker Punch",
+            "Giga Drain",
+            "Dragon Tail"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 12",
+      "pokemon": [
+        {
+          "alpha": "poliwrath",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Ice Punch",
+            "Drain Punch",
+            "Rain Dance"
+          ]
+        },
+        {
+          "alpha": "rapidash",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Megahorn",
+            "Iron Tail",
+            "Will-O-Wisp"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 13",
+      "pokemon": [
+        {
+          "alpha": "pidgeot",
+          "alpha_moveSet": [
+            "Fly",
+            "Steel Wing",
+            "Feather Dance",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 14",
+      "pokemon": [
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 15",
+      "pokemon": [
+        {
+          "alpha": "weepinbell",
+          "alpha_moveSet": [
+            "Giga Drain",
+            "Venoshock",
+            "Toxic",
+            "Synthesis"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 16",
+      "pokemon": [
+        {
+          "alpha": "fearow",
+          "alpha_moveSet": [
+            "Facade",
+            "Drill Peck",
+            "Drill Run",
+            "Whirlwind"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 17",
+      "pokemon": [
+        {
+          "alpha": "raticate",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Super Fang",
+            "Crunch",
+            "Taunt"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 18",
+      "pokemon": [
+        {
+          "alpha": "kangaskhan",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Drain Punch",
+            "Thunder Punch",
+            "Aqua Tail"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 19",
+      "pokemon": [
+        {
+          "alpha": "pikachu",
+          "alpha_moveSet": [
+            "Thunderbolt",
+            "Surf",
+            "Signal Beam",
+            "Nasty Plot"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 20",
+      "pokemon": [
+        {
+          "alpha": "kingler",
+          "alpha_moveSet": [
+            "Razor Shell",
+            "Body Slam",
+            "Rock Slide",
+            "X-Scissor"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 21",
+      "pokemon": [
+        {
+          "alpha": "tentacruel",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Poison Jab",
+            "Skull Bash",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "cloyster",
+          "alpha_moveSet": [
+            "Ice Beam",
+            "Poison Jab",
+            "Skull Bash",
+            "Surf"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 22",
+      "pokemon": [
+        {
+          "alpha": "butterfree",
+          "alpha_moveSet": [
+            "Bug Buzz",
+            "Sleep Powder",
+            "Quiver Dance",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 23",
+      "pokemon": [
+        {
+          "alpha": "arbok",
+          "alpha_moveSet": [
+            "Gunk Shot",
+            "Earthquake",
+            "Aqua Tail",
+            "Seed Bomb"
+          ]
+        },
+        {
+          "alpha": "nidoqueen",
+          "alpha_moveSet": [
+            "Earth Power",
+            "Thunderbolt",
+            "Flamethrower",
+            "Ice Beam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 24",
+      "pokemon": [
+        {
+          "alpha": "venomoth",
+          "alpha_moveSet": [
+            "Bug Buzz",
+            "Giga Drain",
+            "Quiver Dance",
+            "Sludge Bomb"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 25",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Berry Forest",
+      "pokemon": [
+        {
+          "alpha": "pidgeot",
+          "alpha_moveSet": [
+            "Sky Attack",
+            "Secret Power",
+            "Heat Wave",
+            "Roost"
+          ]
+        },
+        {
+          "alpha": "hypno",
+          "alpha_moveSet": [
+            "Psyshock",
+            "Wake-Up Slap",
+            "Hypnosis",
+            "Grass Knot"
+          ]
+        },
+        {
+          "alpha": "forretress",
+          "alpha_moveSet": [
+            "Bug Bite",
+            "Protect",
+            "Pain Split",
+            "Toxic"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Bond Bridge",
+      "pokemon": [
+        {
+          "alpha": "sunflora",
+          "alpha_moveSet": [
+            "Petal Dance",
+            "Earth Power",
+            "Endeavor",
+            "Safeguard"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Canyon Entrance",
+      "pokemon": [
+        {
+          "alpha": "rhydon",
+          "alpha_moveSet": [
+            "Rock Blast",
+            "Earthquake",
+            "Dragon Tail",
+            "Stealth Rock"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cape Brink",
+      "pokemon": [
+        {
+          "alpha": "vaporeon",
+          "alpha_moveSet": [
+            "Muddy Water",
+            "Calm Mind",
+            "Aqua Ring",
+            "Stored Power"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Celadon City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cerulean City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cerulean Cave",
+      "pokemon": [
+        {
+          "alpha": "parasect",
+          "alpha_moveSet": [
+            "Leech Life",
+            "Seed Bomb",
+            "Brick Break",
+            "Spore"
+          ]
+        },
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cinnabar Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Diglett's Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Five Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Five Isle Meadow",
+      "pokemon": [
+        {
+          "alpha": "parasect",
+          "alpha_moveSet": [
+            "Leech Life",
+            "Brick Break",
+            "Swords Dance",
+            "Spore"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Four Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Fuchsia City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Green Path",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Icefall Cave",
+      "pokemon": [
+        {
+          "alpha": "lapras",
+          "alpha_moveSet": [
+            "Surf",
+            "Ice Beam",
+            "Rain Dance",
+            "Thunder"
+          ]
+        },
+        {
+          "alpha": "dewgong",
+          "alpha_moveSet": [
+            "Ice Beam",
+            "Aqua Tail",
+            "Megahorn",
+            "Entrainment"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Indigo Plateau",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Kindle Road",
+      "pokemon": [
+        {
+          "alpha": "houndoom",
+          "alpha_moveSet": [
+            "Foul Play",
+            "Reversal",
+            "Flamethrower",
+            "Swagger"
+          ]
+        },
+        {
+          "alpha": "marowak",
+          "alpha_moveSet": [
+            "Bonemerang",
+            "Stone Edge",
+            "Substitute",
+            "Swords Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lavender Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lost Cave",
+      "pokemon": [
+        {
+          "alpha": "kangaskhan",
+          "alpha_moveSet": [
+            "Double Hit",
+            "Avalanche",
+            "Fire Punch",
+            "Work Up"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Memorial Pillar",
+      "pokemon": [
+        {
+          "alpha": "qwilfish",
+          "alpha_moveSet": [
+            "Hydro Pump",
+            "Poison Jab",
+            "Bounce",
+            "Surf"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mt. Ember",
+      "pokemon": [
+        {
+          "alpha": "arcanine",
+          "alpha_moveSet": [
+            "Fire Blast",
+            "Dragon Pulse",
+            "Bulldoze",
+            "Safeguard"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mt. Moon",
+      "pokemon": [
+        {
+          "alpha": "clefable",
+          "alpha_moveSet": [
+            "Hyper Voice",
+            "Flamethrower",
+            "Charge Beam",
+            "Soft-Boiled"
+          ]
+        },
+        {
+          "alpha": "golbat",
+          "alpha_moveSet": [
+            "Air Slash",
+            "Leech Life",
+            "Giga Drain",
+            "Roost"
+          ]
+        },
+        {
+          "alpha": "parasect",
+          "alpha_moveSet": [
+            "Leech Life",
+            "Giga Impact",
+            "Swords Dance",
+            "Spore"
+          ]
+        },
+        {
+          "alpha": "teddiursa",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Earthquake",
+            "Rock Slide",
+            "Mud-Slap"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "One Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Outcast Island",
+      "pokemon": [
+        {
+          "alpha": "dragonite",
+          "alpha_moveSet": [
+            "Dragon Tail",
+            "Hurricane",
+            "Fire Punch",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pallet Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pattern Bush",
+      "pokemon": [
+        {
+          "alpha": "butterfree",
+          "alpha_moveSet": [
+            "Signal Beam",
+            "Hurricane",
+            "Sleep Powder",
+            "Roost"
+          ]
+        },
+        {
+          "alpha": "pinsir",
+          "alpha_moveSet": [
+            "X-Scissor",
+            "Rock Slide",
+            "Reversal",
+            "Bulldoze"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pewter City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pokemon Mansion",
+      "pokemon": [
+        {
+          "alpha": "raticate",
+          "alpha_moveSet": [
+            "Hyper Fang",
+            "Endeavor",
+            "Reversal",
+            "Thunder Wave"
+          ]
+        },
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pokemon Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Power Plant",
+      "pokemon": [
+        {
+          "alpha": "raichu",
+          "alpha_moveSet": [
+            "ThunderBolt",
+            "Surf",
+            "Body Slam",
+            "Safeguard"
+          ]
+        },
+        {
+          "alpha": "magnezone",
+          "alpha_moveSet": [
+            "Zap Cannon",
+            "Flash Cannon",
+            "Tri Attack",
+            "Lock-On"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Resort Gorgeous",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Rock Tunnel",
+      "pokemon": [
+        {
+          "alpha": "marowak",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Rock Slide",
+            "Sleep Talk",
+            "Rest"
+          ]
+        },
+        {
+          "alpha": "kangaskhan",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Reversal",
+            "Crunch",
+            "Roar"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ruin Valley",
+      "pokemon": [
+        {
+          "alpha": "persian",
+          "alpha_moveSet": [
+            "Hyper Voice",
+            "ThunderBolt",
+            "Nasty Plot",
+            "Water Pulse"
+          ]
+        },
+        {
+          "alpha": "xatu",
+          "alpha_moveSet": [
+            "Heat Wave",
+            "Calm Mind",
+            "Stored Power",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Safari Zone",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Saffron City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Seafoam Islands",
+      "pokemon": [
+        {
+          "alpha": "jynx",
+          "alpha_moveSet": [
+            "Frost Breath",
+            "Psychic",
+            "Nasty Plot",
+            "Lovely Kiss"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sevault Canyon",
+      "pokemon": [
+        {
+          "alpha": "golem",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Rock Blast",
+            "Giga Impact",
+            "Counter"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Tanoby Ruins",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Three Isle Port",
+      "pokemon": [
+        {
+          "alpha": "chansey",
+          "alpha_moveSet": [
+            "Seismic Toss",
+            "Safeguard",
+            "Soft-Boiled",
+            "Toxic"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Trainer Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Treasure Beach",
+      "pokemon": [
+        {
+          "alpha": "fearow",
+          "alpha_moveSet": [
+            "Giga Impact",
+            "Drill Peck",
+            "Drill Run",
+            "Focus Energy"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Vermilion City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Victory Road",
+      "pokemon": [
+        {
+          "alpha": "sandslash",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Leech Life",
+            "Stone Edge",
+            "Sandstorm"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Viridian City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Viridian Forest",
+      "pokemon": [
+        {
+          "alpha": "butterfree",
+          "alpha_moveSet": [
+            "Bug Buzz",
+            "Air Slash",
+            "Quiver Dance",
+            "Giga Drain"
+          ]
+        },
+        {
+          "alpha": "Pikachu",
+          "alpha_moveSet": [
+            "ThunderBolt",
+            "Grass Knot",
+            "Iron Tail",
+            "Brick Break"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Water Labyrinth",
+      "pokemon": [
+        {
+          "alpha": "tentacruel",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Poison Jab",
+            "Skull Bash",
+            "Swords Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Water Path",
+      "pokemon": [
+        {
+          "alpha": "yanmega",
+          "alpha_moveSet": [
+            "Leech Life",
+            "Dream Eater",
+            "Giga Drain",
+            "Hypnosis"
+          ]
+        }
+      ]
+    }
+  ],
+  "Johto": [
+    {
+      "location": "Route 26",
+      "pokemon": [
+        {
+          "alpha": "nidoqueen",
+          "alpha_moveSet": [
+            "Sludge Wave",
+            "Earth Power",
+            "Thunderbolt",
+            "Flamethrower"
+          ]
+        },
+        {
+          "alpha": "qwilfish",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Reversal",
+            "Spikes",
+            "Toxic Spikes"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 27",
+      "pokemon": [
+        {
+          "alpha": "electivire",
+          "alpha_moveSet": [
+            "Thunderbolt",
+            "Flamethrower",
+            "Ice Punch",
+            "Psychic"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 28",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 29",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 30",
+      "pokemon": [
+        {
+          "alpha": "noctowl",
+          "alpha_moveSet": [
+            "Hyper Voice",
+            "Whirlwind",
+            "Night Shade",
+            "Roost"
+          ]
+        },
+        {
+          "alpha": "aipom",
+          "alpha_moveSet": [
+            "Tail Slap",
+            "Seed Bomb",
+            "Metronome",
+            "Taunt"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 31",
+      "pokemon": [
+        {
+          "alpha": "politoed",
+          "alpha_moveSet": [
+            "Surf",
+            "Ice Beam",
+            "Earth Power",
+            "Amnesia"
+          ]
+        },
+        {
+          "alpha": "ledian",
+          "alpha_moveSet": [
+            "Focus Punch",
+            "Thunder Punch",
+            "Ice Punch",
+            "Mach Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 32",
+      "pokemon": [
+        {
+          "alpha": "victreebel",
+          "alpha_moveSet": [
+            "Leaf Blade",
+            "Sludge Bomb",
+            "Sleep Power",
+            "Gastro Acid"
+          ]
+        },
+        {
+          "alpha": "nidoking",
+          "alpha_moveSet": [
+            "Poison Jab",
+            "Fire Punch",
+            "Amnesia",
+            "Curse"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 33",
+      "pokemon": [
+        {
+          "alpha": "arbok",
+          "alpha_moveSet": [
+            "Sludge Bomb",
+            "Aqua Tail",
+            "Swagger",
+            "Glare"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 34",
+      "pokemon": [
+        {
+          "alpha": "granbull",
+          "alpha_moveSet": [
+            "Metronome",
+            "Last resort"
+          ]
+        },
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 35",
+      "pokemon": [
+        {
+          "alpha": "sudowoodo",
+          "alpha_moveSet": [
+            "Rock Blast",
+            "Drain Punch",
+            "Giga Impact",
+            "Rock Polish"
+          ]
+        },
+        {
+          "alpha": "politoed",
+          "alpha_moveSet": [
+            "Whirlpool",
+            "Ice Beam",
+            "Endeavor",
+            "Toxic"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 36",
+      "pokemon": [
+        {
+          "alpha": "victreebel",
+          "alpha_moveSet": [
+            "Bullet Seed",
+            "Poison Jab",
+            "Leech Life",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "hypno",
+          "alpha_moveSet": [
+            "Foul Play",
+            "Zen Headbutt",
+            "Psych Up",
+            "Swagger"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 37",
+      "pokemon": [
+        {
+          "alpha": "ninetales",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Solar Beam",
+            "Extrasensory",
+            "Nasty Plot"
+          ]
+        },
+        {
+          "alpha": "ledian",
+          "alpha_moveSet": [
+            "Bug Buzz",
+            "Comet Punch",
+            "Safeguard",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 38",
+      "pokemon": [
+        {
+          "alpha": "persian",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Thunderbolt",
+            "Seed Bomb",
+            "Embargo"
+          ]
+        },
+        {
+          "alpha": "magneton",
+          "alpha_moveSet": [
+            "Thunderbolt",
+            "Flash Cannon",
+            "Charge Beam",
+            "Signal Beam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 39",
+      "pokemon": [
+        {
+          "alpha": "miltank",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Heal Bell",
+            "Rest",
+            "Sleep Talk"
+          ]
+        },
+        {
+          "alpha": "granbull",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Crunch",
+            "Earthquake",
+            "Bulk Up"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 40",
+      "pokemon": [
+        {
+          "alpha": "kingler",
+          "alpha_moveSet": [
+            "Razor Shell",
+            "Body Slam",
+            "Agility",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "corsola",
+          "alpha_moveSet": [
+            "Scald",
+            "Power Gem",
+            "Safeguard",
+            "Recover"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 41",
+      "pokemon": [
+        {
+          "alpha": "mantine",
+          "alpha_moveSet": [
+            "Scald",
+            "Toxic",
+            "Roost",
+            "Aqua Ring"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 42",
+      "pokemon": [
+        {
+          "alpha": "murkrow",
+          "alpha_moveSet": [
+            "Foul Play",
+            "Taunt",
+            "Thunder Wave",
+            "Swagger"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 43",
+      "pokemon": [
+        {
+          "alpha": "ambipom",
+          "alpha_moveSet": [
+            "Tail Slap",
+            "Mud Slap",
+            "Swagger",
+            "Thunder Wave"
+          ]
+        },
+        {
+          "alpha": "forretress",
+          "alpha_moveSet": [
+            "Gyro Ball",
+            "Rock Slide",
+            "Earthquake",
+            "curse"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 44",
+      "pokemon": [
+        {
+          "alpha": "ariados",
+          "alpha_moveSet": [
+            "Shadow Sneak",
+            "Pin Missel",
+            "Swords Dance",
+            "Toxic Spikes"
+          ]
+        },
+        {
+          "alpha": "ambipom",
+          "alpha_moveSet": [
+            "Tail Slap",
+            "Gunk Shot",
+            "Foul Play",
+            "Substitute"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 45",
+      "pokemon": [
+        {
+          "alpha": "nidoking",
+          "alpha_moveSet": [
+            "Poison Jab",
+            "Earth Power",
+            "Rock Slide",
+            "Ice Beam"
+          ]
+        },
+        {
+          "alpha": "forretress",
+          "alpha_moveSet": [
+            "Iron Head",
+            "Earthquake",
+            "Reflect",
+            "Light Scream"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 46",
+      "pokemon": [
+        {
+          "alpha": "gligar",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Acrobatics",
+            "Swords Dance",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 47",
+      "pokemon": [
+        {
+          "alpha": "tentacruel",
+          "alpha_moveSet": [
+            "Surf",
+            "Sludge Bomb",
+            "Ice Beam",
+            "Giga Drain"
+          ]
+        },
+        {
+          "alpha": "miltank",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Earthquake",
+            "Curse",
+            "Milk Drink"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 48",
+      "pokemon": [
+        {
+          "alpha": "granbull",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Ice Punch",
+            "Fire Punch",
+            "Thunder Punch"
+          ]
+        },
+        {
+          "alpha": "miltank",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Iron Head",
+            "Thunder Wave",
+            "Milk Drink"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Azalea Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Bellchime Trail",
+      "pokemon": [
+        {
+          "alpha": "houndoom",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Solar Beam",
+            "Sunny Day",
+            "Dark Pulse"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Bell Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Blackthorn City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Burned Tower",
+      "pokemon": [
+        {
+          "alpha": "magmortar",
+          "alpha_moveSet": [
+            "Overheat",
+            "Thunderbolt",
+            "Earthquake",
+            "Power Swap"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cherrygrove City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cianwood City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cliff Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cliff Edge Gate",
+      "pokemon": [
+        {
+          "alpha": "quagsire",
+          "alpha_moveSet": [
+            "Scald",
+            "Earthquake",
+            "Yawn",
+            "Stockpile"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Dark Cave",
+      "pokemon": [
+        {
+          "alpha": "ursaring",
+          "alpha_moveSet": [
+            "Slash",
+            "Shadow Ball",
+            "Fire Punch",
+            "Focus Energy"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Dragon's Den",
+      "pokemon": [
+        {
+          "alpha": "dragonite",
+          "alpha_moveSet": [
+            "Dragon Claw",
+            "Extreme Speed",
+            "Low Kick",
+            "Surf"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ecruteak City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Embedded Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Goldenrod City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ice Path",
+      "pokemon": [
+        {
+          "alpha": "sneasel",
+          "alpha_moveSet": [
+            "Ice Shard",
+            "Low Kick",
+            "Focus Punch",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "mamoswine",
+          "alpha_moveSet": [
+            "Icicle Spear",
+            "Earthquake",
+            "Rock Blast",
+            "Snowcape"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ilex Forest",
+      "pokemon": [
+        {
+          "alpha": "sudowoodo",
+          "alpha_moveSet": [
+            "Stone Edge",
+            "Earthquake",
+            "Swagger",
+            "Psych Up"
+          ]
+        },
+        {
+          "alpha": "ariados",
+          "alpha_moveSet": [
+            "Megahorn",
+            "Cross Poison",
+            "Sleep Talk",
+            "Rest"
+          ]
+        },
+        {
+          "alpha": "venomoth",
+          "alpha_moveSet": [
+            "Bug Buzz",
+            "Giga Drain",
+            "Quiver Dance",
+            "Sleep Powder"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lake of Rage",
+      "pokemon": [
+        {
+          "alpha": "kingdra",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Outrage",
+            "Bounce",
+            "Dragon Dance"
+          ]
+        },
+        {
+          "alpha": "sudowoodo",
+          "alpha_moveSet": [
+            "Rollout",
+            "Earthquake",
+            "Drain Punch",
+            "Defense Curl"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lighthouse",
+      "pokemon": [
+        {
+          "alpha": "pidgeot",
+          "alpha_moveSet": [
+            "Air Slash",
+            "Fly",
+            "Brave Bird",
+            "Steel Wing"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mt. Mortar",
+      "pokemon": [
+        {
+          "alpha": "rhyperior",
+          "alpha_moveSet": [
+            "Rock Wrecker",
+            "Earthquake",
+            "Megahorn",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "lapras",
+          "alpha_moveSet": [
+            "Ice Beam",
+            "Rest",
+            "Toxic",
+            "Block"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mt. Silver",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "National Park",
+      "pokemon": [
+        {
+          "alpha": "sunflora",
+          "alpha_moveSet": [
+            "SolarBeam",
+            "Earth Power",
+            "Synthesis",
+            "Sunny Day"
+          ]
+        },
+        {
+          "alpha": "ledian",
+          "alpha_moveSet": [
+            "Dynamic Punch",
+            "Bug Buzz",
+            "Light Screen",
+            "Reflect"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "New Bark Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Olivine City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ruins of Alph",
+      "pokemon": [
+        {
+          "alpha": "espeon",
+          "alpha_moveSet": [
+            "Stored Power",
+            "Grass Knot",
+            "Power Gen",
+            "Calm Mind"
+          ]
+        },
+        {
+          "alpha": "xatu",
+          "alpha_moveSet": [
+            "Me First",
+            "Giga Drain",
+            "Tailwind",
+            "Psychic"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Slowpoke Well",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sprout Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Tin Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Tohjo Falls",
+      "pokemon": [
+        {
+          "alpha": "azumarill",
+          "alpha_moveSet": [
+            "Seismic Toss",
+            "Knock Off",
+            "Aqua Ring",
+            "Scald"
+          ]
+        },
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Union Cave",
+      "pokemon": [
+        {
+          "alpha": "ursaring",
+          "alpha_moveSet": [
+            "Giga Impact",
+            "Swords Dance",
+            "Hammer Arm",
+            "Crunch"
+          ]
+        },
+        {
+          "alpha": "corsola",
+          "alpha_moveSet": [
+            "Scald",
+            "Iron Defense",
+            "Calm Mind",
+            "Aqua Ring"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Victory Road",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Violet City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Whirl Islands",
+      "pokemon": [
+        {
+          "alpha": "dewgong",
+          "alpha_moveSet": [
+            "Blizzard",
+            "Aqua Jet",
+            "Megahorn",
+            "Snowcape"
+          ]
+        },
+        {
+          "alpha": "kingdra",
+          "alpha_moveSet": [
+            "Dragon Meteor",
+            "Waterfall",
+            "Clear Smog",
+            "Bounce"
+          ]
+        }
+      ]
+    }
+  ],
+  "Hoenn": [
+    {
+      "location": "Route 101",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 102",
+      "pokemon": [
+        {
+          "alpha": "linoone",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Shadow claw",
+            "Seed Bomb",
+            "Covet"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 103",
+      "pokemon": [
+        {
+          "alpha": "mightyena",
+          "alpha_moveSet": [
+            "Crunch",
+            "Iron Tail",
+            "Fire Fang",
+            "Howl"
+          ]
+        },
+        {
+          "alpha": "minun",
+          "alpha_moveSet": [
+            "Discharge",
+            "Grass Knot",
+            "Charm",
+            "Covet"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 104",
+      "pokemon": [
+        {
+          "alpha": "mightyena",
+          "alpha_moveSet": [
+            "Foul Play",
+            "Swagger",
+            "Psych Up",
+            "Iron Tail"
+          ]
+        },
+        {
+          "alpha": "linoone",
+          "alpha_moveSet": [
+            "Slash",
+            "Shadow Claw",
+            "Seed Bomb",
+            "Thunderbolt"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 105",
+      "pokemon": [
+        {
+          "alpha": "pelipper",
+          "alpha_moveSet": [
+            "Hydro Pump",
+            "Air Slash",
+            "Shock Wave",
+            "Ice Beam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 106",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 107",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 108",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 109",
+      "pokemon": [
+        {
+          "alpha": "pelipper",
+          "alpha_moveSet": [
+            "Scald",
+            "Hurricane",
+            "Stockpile",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 110",
+      "pokemon": [
+        {
+          "alpha": "mightyena",
+          "alpha_moveSet": [
+            "Crunch",
+            "Fire Fang",
+            "Thunder Fang",
+            "Ice Fang"
+          ]
+        },
+        {
+          "alpha": "plusle",
+          "alpha_moveSet": [
+            "Grass Knot",
+            "Signal Beam",
+            "Thunderbolt",
+            "Nasty Plot"
+          ]
+        },
+        {
+          "alpha": "magneton",
+          "alpha_moveSet": [
+            "Discharge",
+            "Flash Cannon",
+            "Signal Beam",
+            "Magic Coat"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 111",
+      "pokemon": [
+        {
+          "alpha": "sandslash",
+          "alpha_moveSet": [
+            "Drill Run",
+            "Rock Slide",
+            "Leech Life",
+            "Swords Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 112",
+      "pokemon": [
+        {
+          "alpha": "spinda",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Super Power",
+            "Sucker Punch",
+            "Psycho Cut"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 113",
+      "pokemon": [
+        {
+          "alpha": "spinda",
+          "alpha_moveSet": [
+            "Trash",
+            "Super Power",
+            "Thief",
+            "Teeter Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 114",
+      "pokemon": [
+        {
+          "alpha": "altaria",
+          "alpha_moveSet": [
+            "Dragon Pulse",
+            "Heal Bell",
+            "Cotton Guard",
+            "Roost"
+          ]
+        },
+        {
+          "alpha": "seviper",
+          "alpha_moveSet": [
+            "Sludge Wave",
+            "Giga Drain",
+            "Flamethrower",
+            "Glare"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 115",
+      "pokemon": [
+        {
+          "alpha": "wigglytuff",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Flamethrower",
+            "ThunderPunch",
+            "Pain Split"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 116",
+      "pokemon": [
+        {
+          "alpha": "plusle",
+          "alpha_moveSet": [
+            "Discharge",
+            "Grass Knot",
+            "Seismic Toss",
+            "Fake Tears"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 117",
+      "pokemon": [
+        {
+          "alpha": "golduck",
+          "alpha_moveSet": [
+            "Ice Beam",
+            "Nasty Plot",
+            "Body Slam",
+            "Swagger"
+          ]
+        },
+        {
+          "alpha": "minun",
+          "alpha_moveSet": [
+            "Thunderbolt",
+            "Signal Beam",
+            "Thunder Wave",
+            "Charm"
+          ]
+        },
+        {
+          "alpha": "roserade",
+          "alpha_moveSet": [
+            "Energy Ball",
+            "Poison Jab",
+            "Nightmare",
+            "Grasswhistle"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 118",
+      "pokemon": [
+        {
+          "alpha": "linoone",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Cut",
+            "Surf",
+            "Thunder Wave"
+          ]
+        },
+        {
+          "alpha": "tropius",
+          "alpha_moveSet": [
+            "Leaf Storm",
+            "Dragon Pulse",
+            "Air Slash",
+            "Earthquake"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 119",
+      "pokemon": [
+        {
+          "alpha": "breloom",
+          "alpha_moveSet": [
+            "Seed Bomb",
+            "Mach Punch",
+            "ThunderPunch",
+            "Spore"
+          ]
+        },
+        {
+          "alpha": "milotic",
+          "alpha_moveSet": [
+            "Hydro Pump",
+            "Dragon Pulse",
+            "Hyper Beam",
+            "Toxic"
+          ]
+        },
+        {
+          "alpha": "tropius",
+          "alpha_moveSet": [
+            "Solar Beam",
+            "Air Slash",
+            "Sunny Day",
+            "Outrage"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 120",
+      "pokemon": [
+        {
+          "alpha": "Azumarill",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Bounce",
+            "Bulldoze",
+            "Aqua Ring"
+          ]
+        },
+        {
+          "alpha": "Breloom",
+          "alpha_moveSet": [
+            "Bullet Seed",
+            "Spore",
+            "Swords Dance",
+            "Drain Punch"
+          ]
+        },
+        {
+          "alpha": "crawdaunt",
+          "alpha_moveSet": [
+            "Crabhammer",
+            "Close Combat",
+            "Crunch",
+            "Ice Beam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 121",
+      "pokemon": [
+        {
+          "alpha": "xatu",
+          "alpha_moveSet": [
+            "Air Slash",
+            "Stored Power",
+            "Cosmic Power",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 122",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 123",
+      "pokemon": [
+        {
+          "alpha": "pinsir",
+          "alpha_moveSet": [
+            "X-scissor",
+            "Earthquake",
+            "Stone Edge",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "Azumarill",
+          "alpha_moveSet": [
+            "Giga Impact",
+            "Aqua Tail",
+            "Brick Break",
+            "Ice Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 124",
+      "pokemon": [
+        {
+          "alpha": "walrein",
+          "alpha_moveSet": [
+            "Frost Breath",
+            "Surf",
+            "Earthquake",
+            "Rest"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 125",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 126",
+      "pokemon": [
+        {
+          "alpha": "corsola",
+          "alpha_moveSet": [
+            "Hydro Pump",
+            "Stone Edge",
+            "Blizzard",
+            "Screech"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 127",
+      "pokemon": [
+        {
+          "alpha": "sharpedo",
+          "alpha_moveSet": [
+            "Dive",
+            "Earthquake",
+            "Dark Pulse",
+            "Taunt"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 128",
+      "pokemon": [
+        {
+          "alpha": "tentacruel",
+          "alpha_moveSet": [
+            "Surf",
+            "Sludge Wave",
+            "Toxic",
+            "Safeguard"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 129",
+      "pokemon": [
+        {
+          "alpha": "sharpedo",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Close Combat",
+            "Crunch",
+            "Ice Beam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 130",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 131",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 132",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 133",
+      "pokemon": [
+        {
+          "alpha": "golduck",
+          "alpha_moveSet": [
+            "Scald",
+            "Ice Beam",
+            "Power Gem",
+            "Nasty Plot"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 134",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Abandoned Ship",
+      "pokemon": [
+        {
+          "alpha": "crawdaunt",
+          "alpha_moveSet": [
+            "Crabhammer",
+            "Crunch",
+            "Close Combat",
+            "Dragon Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Altering Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Aqua Hideout",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Battle Resort",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Battle Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Battle Frontier",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Birth Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cave of Origin",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Desert Underpass",
+      "pokemon": [
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        },
+        {
+          "alpha": "exploud",
+          "alpha_moveSet": [
+            "Hyper Voice",
+            "Fire Blast",
+            "Roar",
+            "Counter"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Dewford Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ever Grande City",
+      "pokemon": [
+        {
+          "alpha": "altaria",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Dragon Claw",
+            "Roost",
+            "Safeguard"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Faraway Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Fiery Path",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Fortree City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Granite Cave",
+      "pokemon": [
+        {
+          "alpha": "exploud",
+          "alpha_moveSet": [
+            "Hyper Beam",
+            "Giga Impact",
+            "Earthquake",
+            "Work Up"
+          ]
+        },
+        {
+          "alpha": "sableye",
+          "alpha_moveSet": [
+            "Foul Play",
+            "Seismic Toss",
+            "Pain Split",
+            "Swagger"
+          ]
+        },
+        {
+          "alpha": "lairon",
+          "alpha_moveSet": [
+            "Iron Tail",
+            "Earthquake",
+            "Stone Edge",
+            "Metal Burst"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Jagged Pass",
+      "pokemon": [
+        {
+          "alpha": "golem",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Stone Edge",
+            "Iron Head",
+            "Rock Polish"
+          ]
+        },
+        {
+          "alpha": "spinda",
+          "alpha_moveSet": [
+            "Hyper Voice",
+            "Psycho Cut",
+            "Swagger",
+            "Skill Swap"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lilycove City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Littleroot Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Marine Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Magma Hideout",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Meteor Falls",
+      "pokemon": [
+        {
+          "alpha": "crobat",
+          "alpha_moveSet": [
+            "Fly",
+            "Super Fang",
+            "Toxic",
+            "Confuse Ray"
+          ]
+        },
+        {
+          "alpha": "shelgon",
+          "alpha_moveSet": [
+            "Dragon Claw",
+            "Fire Spin",
+            "Toxic",
+            "Brick Break"
+          ]
+        },
+        {
+          "alpha": "salamence",
+          "alpha_moveSet": [
+            "Dragon claw",
+            "Earthquake",
+            "Roost",
+            "Dragon Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mirage Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mirage Spots",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mirage Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mossdeep City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mt. Pyre",
+      "pokemon": [
+        {
+          "alpha": "ninetales",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Solar Beam",
+            "Extrasensory",
+            "Nasty Plot"
+          ]
+        },
+        {
+          "alpha": "gardevoir",
+          "alpha_moveSet": [
+            "Psyshock",
+            "Aura Sphere",
+            "Recover",
+            "Shadow Ball"
+          ]
+        },
+        {
+          "alpha": "banette",
+          "alpha_moveSet": [
+            "Shadow Claw",
+            "Thunderbolt",
+            "Pain Split",
+            "Will-O-Wisp"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "New Mauville",
+      "pokemon": [
+        {
+          "alpha": "magneton",
+          "alpha_moveSet": [
+            "Discharge",
+            "Signal Beam",
+            "Flash Cannon",
+            "Magic Coat"
+          ]
+        },
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pacifidlog Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Petalburg City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Petalburg Woods",
+      "pokemon": [
+        {
+          "alpha": "Breloom",
+          "alpha_moveSet": [
+            "Bullet Seed",
+            "Drain Punch",
+            "Spore",
+            "Rock Tomb"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Rustboro City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Rusturf Tunnel",
+      "pokemon": [
+        {
+          "alpha": "Loudred",
+          "alpha_moveSet": [
+            "Uproar",
+            "Roar",
+            "Seismic Toss",
+            "Swagger"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Safari Zone",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Scorched Slab",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sea Mauville",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Seafloor Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sealed Chamber",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Shoal Cave",
+      "pokemon": [
+        {
+          "alpha": "sealeo",
+          "alpha_moveSet": [
+            "Icicle Spear",
+            "Curse",
+            "Rest",
+            "Sleep Talk"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sky Pillar",
+      "pokemon": [
+        {
+          "alpha": "ariados",
+          "alpha_moveSet": [
+            "Megahorn",
+            "Shadow Sneak",
+            "Dig",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "salamence",
+          "alpha_moveSet": [
+            "Dragon Claw",
+            "Brick Break",
+            "Iron Defense",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Slateport City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sootopolis City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Southern Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Terra Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Underwater",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Victory Road",
+      "pokemon": [
+        {
+          "alpha": "Sableye",
+          "alpha_moveSet": [
+            "Drain Punch",
+            "Will-O-Wisp",
+            "Night Shade",
+            "Pain Split"
+          ]
+        },
+        {
+          "alpha": "aggron",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Rock Polish",
+            "Endeavor",
+            "Heavy Slam"
+          ]
+        }
+      ]
+    }
+  ],
+  "Sinnoh": [
+    {
+      "location": "Route 201",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 202",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 203",
+      "pokemon": [
+        {
+          "alpha": "ponyta",
+          "alpha_moveSet": [
+            "Overheat",
+            "Low Kick",
+            "Body Slam",
+            "Hypnosis"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 204",
+      "pokemon": [
+        {
+          "alpha": "staravia",
+          "alpha_moveSet": [
+            "Acrobatics",
+            "Heat Wave",
+            "Giga Impact",
+            "Whirlwind"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 205",
+      "pokemon": [
+        {
+          "alpha": "yanma",
+          "alpha_moveSet": [
+            "Leech Life",
+            "Wing Attack",
+            "Steel Wing",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "luxray",
+          "alpha_moveSet": [
+            "Thunderbolt",
+            "Signal Beam",
+            "Superpower",
+            "Facade"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 206",
+      "pokemon": [
+        {
+          "alpha": "gabite",
+          "alpha_moveSet": [
+            "Dual Chop",
+            "Roar",
+            "Earthquake",
+            "Stealth Rock"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 207",
+      "pokemon": [
+        {
+          "alpha": "graveler",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Rollout",
+            "Fire Punch",
+            "Defense Curl"
+          ]
+        },
+        {
+          "alpha": "bronzor",
+          "alpha_moveSet": [
+            "Flash Cannon",
+            "Psychic",
+            "Grass Knot",
+            "Calm Mind"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 208",
+      "pokemon": [
+        {
+          "alpha": "psyduck",
+          "alpha_moveSet": [
+            "Aqua Tail",
+            "Amnesia",
+            "Double Team",
+            "Curse"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 209",
+      "pokemon": [
+        {
+          "alpha": "honchkrow",
+          "alpha_moveSet": [
+            "Fly",
+            "Sucker Punch",
+            "Superpower",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 210",
+      "pokemon": [
+        {
+          "alpha": "blissey",
+          "alpha_moveSet": [
+            "Tri Attack",
+            "Flamethrower",
+            "Ice Beam",
+            "Thunderbolt"
+          ]
+        },
+        {
+          "alpha": "noctowl",
+          "alpha_moveSet": [
+            "Air Slash",
+            "Mud-Slap",
+            "Toxic",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 211",
+      "pokemon": [
+        {
+          "alpha": "rapidash",
+          "alpha_moveSet": [
+            "Fire Blast",
+            "Solar Beam",
+            "Drill Run",
+            "Sunny Day"
+          ]
+        },
+        {
+          "alpha": "gliscor",
+          "alpha_moveSet": [
+            "Acrobatics",
+            "Toxic",
+            "Taunt",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 212",
+      "pokemon": [
+        {
+          "alpha": "lickilicky",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Power Whip",
+            "Earthquake",
+            "Belly Drum"
+          ]
+        },
+        {
+          "alpha": "quagsire",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Scald",
+            "Sleep Talk",
+            "Rest"
+          ]
+        },
+        {
+          "alpha": "skuntank",
+          "alpha_moveSet": [
+            "Poison Jab",
+            "Sucker Punch",
+            "Fire Spin",
+            "Toxic"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 213",
+      "pokemon": [
+        {
+          "alpha": "staraptor",
+          "alpha_moveSet": [
+            "Sky Attack",
+            "Close Combat",
+            "Endeavor",
+            "Facade"
+          ]
+        },
+        {
+          "alpha": "drapion",
+          "alpha_moveSet": [
+            "Poison Jab",
+            "Earthquake",
+            "Crunch",
+            "Swords Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 214",
+      "pokemon": [
+        {
+          "alpha": "rhyperior",
+          "alpha_moveSet": [
+            "Stone Edge",
+            "Earthquake",
+            "Avalanche",
+            "Heat Crash"
+          ]
+        },
+        {
+          "alpha": "skuntank",
+          "alpha_moveSet": [
+            "Gunk Shot",
+            "Flamethrower",
+            "Foul Play",
+            "Swagger"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 215",
+      "pokemon": [
+        {
+          "alpha": "quagsire",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Aqua Tail",
+            "Ice Punch",
+            "Curse"
+          ]
+        },
+        {
+          "alpha": "drapion",
+          "alpha_moveSet": [
+            "Poison Jab",
+            "Toxic Spikes",
+            "Whirlwind",
+            "Crunch"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 216",
+      "pokemon": [
+        {
+          "alpha": "garchomp",
+          "alpha_moveSet": [
+            "Dragon Rush",
+            "Earthquake",
+            "Hone Claws",
+            "Flamethrower"
+          ]
+        },
+        {
+          "alpha": "lucario",
+          "alpha_moveSet": [
+            "Reversal",
+            "Bullet Punch",
+            "Crunch",
+            "Swords Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 217",
+      "pokemon": [
+        {
+          "alpha": "glaceon",
+          "alpha_moveSet": [
+            "Blizzard",
+            "Water Pulse",
+            "Calm Mind",
+            "Hyper Voice"
+          ]
+        },
+        {
+          "alpha": "weavile",
+          "alpha_moveSet": [
+            "Ice Punch",
+            "Low Kick",
+            "Taunt",
+            "Night Slash"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 218",
+      "pokemon": [
+        {
+          "alpha": "floatzel",
+          "alpha_moveSet": [
+            "Surf",
+            "Ice Punch",
+            "Focus Blast",
+            "Crunch"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 219",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 220",
+      "pokemon": [
+        {
+          "alpha": "kingler",
+          "alpha_moveSet": [
+            "Razor Shell",
+            "Swords Dance",
+            "X-Scissor",
+            "Hammer Arm"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 221",
+      "pokemon": [
+        {
+          "alpha": "skuntank",
+          "alpha_moveSet": [
+            "Sludge Bomb",
+            "Iron Tail",
+            "Crunch",
+            "Flamethrower"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 222",
+      "pokemon": [
+        {
+          "alpha": "Electabuzz",
+          "alpha_moveSet": [
+            "Zap Cannon",
+            "Low Kick",
+            "Reflect",
+            "Light Screen"
+          ]
+        },
+        {
+          "alpha": "walrein",
+          "alpha_moveSet": [
+            "Blizzard",
+            "Surf",
+            "Super Fang",
+            "Snowcape"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 223",
+      "pokemon": [
+        {
+          "alpha": "Pelipper",
+          "alpha_moveSet": [
+            "Whirlpool",
+            "Sky Drop",
+            "Toxic",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 224",
+      "pokemon": [
+        {
+          "alpha": "mantine",
+          "alpha_moveSet": [
+            "Surf",
+            "Hurricane",
+            "Signal Beam",
+            "Rain Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 225",
+      "pokemon": [
+        {
+          "alpha": "banette",
+          "alpha_moveSet": [
+            "Shadow Ball",
+            "Thunderbolt",
+            "Psychic",
+            "Calm Mind"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 226",
+      "pokemon": [
+        {
+          "alpha": "dewgong",
+          "alpha_moveSet": [
+            "Blizzard",
+            "Surf",
+            "Safeguard",
+            "Snowcape"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 227",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 228",
+      "pokemon": [
+        {
+          "alpha": "lucario",
+          "alpha_moveSet": [
+            "Aura Sphere",
+            "Flash Cannon",
+            "Shadow Ball",
+            "Nasty Plot"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 229",
+      "pokemon": [
+        {
+          "alpha": "drapion",
+          "alpha_moveSet": [
+            "Poison Jab",
+            "Leech Life",
+            "Crunch",
+            "Aqua Tail"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 230",
+      "pokemon": [
+        {
+          "alpha": "roserade",
+          "alpha_moveSet": [
+            "Power Whip",
+            "Shadow Ball",
+            "Venoshock",
+            "Ingrain"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Acuity Lakefront",
+      "pokemon": [
+        {
+          "alpha": "noctowl",
+          "alpha_moveSet": [
+            "Heat Wave",
+            "Hyper Voice",
+            "Nasty Plot",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Big Bluff Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Bogsunk Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Canalave City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Celestic Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Dazzling Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Distortion World",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Eterna City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Eterna Forest",
+      "pokemon": [
+        {
+          "alpha": "roselia",
+          "alpha_moveSet": [
+            "Giga Drain",
+            "Sludge Bomb",
+            "Leech Seed",
+            "Stun Spore"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Floaroma Meadow",
+      "pokemon": [
+        {
+          "alpha": "Blissey",
+          "alpha_moveSet": [
+            "Psywave",
+            "Mud-Slap",
+            "Toxic",
+            "Softboiled"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Flower Paradise",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Fountainspring Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Fuego Ironworks",
+      "pokemon": [
+        {
+          "alpha": "magmar",
+          "alpha_moveSet": [
+            "Fire Punch",
+            "Thunder Punch",
+            "Psychic",
+            "Counter"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Glacial Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Grassland Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Great Marsh",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Hall of Origin",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Icy Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Iron Island",
+      "pokemon": [
+        {
+          "alpha": "bronzong",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Grass Knot",
+            "Psychic",
+            "Heavy Slam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lake Acuity",
+      "pokemon": [
+        {
+          "alpha": "gardevoir",
+          "alpha_moveSet": [
+            "Psychic",
+            "Calm Mind",
+            "Shadow Ball",
+            "Recover"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lake Valor",
+      "pokemon": [
+        {
+          "alpha": "milotic",
+          "alpha_moveSet": [
+            "Scald",
+            "Ice Beam",
+            "Aqua Ring",
+            "Recover"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lake Verity",
+      "pokemon": [
+        {
+          "alpha": "luxray",
+          "alpha_moveSet": [
+            "Thunderbolt",
+            "Ice Beam",
+            "Superpower",
+            "Charge Beam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lost Tower",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mt. Coronet",
+      "pokemon": [
+        {
+          "alpha": "clefable",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Drain Punch",
+            "Shadow Ball",
+            "Thunder Wave"
+          ]
+        },
+        {
+          "alpha": "milotic",
+          "alpha_moveSet": [
+            "Scald",
+            "Ice Beam",
+            "Aqua Ring",
+            "Recover"
+          ]
+        },
+        {
+          "alpha": "electivire",
+          "alpha_moveSet": [
+            "Thunder",
+            "Earthquake",
+            "Psychic",
+            "Taunt"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Newmoon Island",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Old Chateau",
+      "pokemon": [
+        {
+          "alpha": "banette",
+          "alpha_moveSet": [
+            "Shadow Claw",
+            "Gunk Shot",
+            "Swords Dance",
+            "Trick Room"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Oreburgh City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Oreburgh Gate",
+      "pokemon": [
+        {
+          "alpha": "floatzel",
+          "alpha_moveSet": [
+            "Aqua Tail",
+            "Taunt",
+            "Metronome",
+            "Ice Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Oreburgh Mine",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pastoria City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pokemon League",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ravaged Path",
+      "pokemon": [
+        {
+          "alpha": "garchomp",
+          "alpha_moveSet": [
+            "Draco Meteor",
+            "Earthquake",
+            "Flamethrower",
+            "Rock Slide"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Resort Area",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Riverbank Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Rocky Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Ruin Maniac Tunnel",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sandsear Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sendoff Spring",
+      "pokemon": [
+        {
+          "alpha": "staraptor",
+          "alpha_moveSet": [
+            "Fly",
+            "Giga Impact",
+            "Close Combat",
+            "Roost"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Snowpoint City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Snowpoint Temple",
+      "pokemon": [
+        {
+          "alpha": "Jynx",
+          "alpha_moveSet": [
+            "Ice Beam",
+            "Psyshock",
+            "Grass Knot",
+            "Lovely Kiss"
+          ]
+        },
+        {
+          "alpha": "gallade",
+          "alpha_moveSet": [
+            "Psycho Cut",
+            "Drain Punch",
+            "Dual Chop",
+            "Bulk Up"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Solaceon Ruins",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Spacious Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Spear Pillar",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Stargleam Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Stark Mountain",
+      "pokemon": [
+        {
+          "alpha": "magmortar",
+          "alpha_moveSet": [
+            "Overheat",
+            "Thunderbolt",
+            "Power Swap",
+            "Dual Chop"
+          ]
+        },
+        {
+          "alpha": "flareon",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Double Kick",
+            "Facade",
+            "Scary Face"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Still-Water Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sunlit Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Sunyshore City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Swampy Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Trophy Garden",
+      "pokemon": [
+        {
+          "alpha": "eevee",
+          "alpha_moveSet": [
+            "Covet",
+            "Double Kick",
+            "Shadow Ball",
+            "Swagger"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Turnback Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Twinleaf Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Typhlo Cavern",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Valley Windworks",
+      "pokemon": [
+        {
+          "alpha": "luxio",
+          "alpha_moveSet": [
+            "Discharge",
+            "Crunch",
+            "Signal Beam",
+            "Roar"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Valor Lakefront",
+      "pokemon": [
+        {
+          "alpha": "houndoom",
+          "alpha_moveSet": [
+            "Snarl",
+            "Flamethrower",
+            "Nasty Plot",
+            "Hyper Voice"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Veilstone City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Victory Road",
+      "pokemon": [
+        {
+          "alpha": "lapras",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Ice Shard",
+            "Body Slam",
+            "Dragon Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Volcanic Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Wayward Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Whiteout Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    }
+  ],
+  "Unova": [
+    {
+      "location": "Route 1",
+      "pokemon": [
+        {
+          "alpha": "patrat",
+          "alpha_moveSet": [
+            "Facade",
+            "Aqua Tail",
+            "Sleep Talk",
+            "Rest"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 2",
+      "pokemon": [
+        {
+          "alpha": "lickitung",
+          "alpha_moveSet": [
+            "Rock Climb",
+            "Aqua Tail",
+            "Zen Headbutt",
+            "Swords Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 3",
+      "pokemon": [
+        {
+          "alpha": "floatzel",
+          "alpha_moveSet": [
+            "Aqua Tail",
+            "Ice Beam",
+            "Rain Dance",
+            "Low Kick"
+          ]
+        },
+        {
+          "alpha": "crawdaunt",
+          "alpha_moveSet": [
+            "Crabhammer",
+            "Crunch",
+            "X-Scissor",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "patrat",
+          "alpha_moveSet": [
+            "Hyper Fang",
+            "Super Fang",
+            "Crunch",
+            "Toxic"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 4",
+      "pokemon": [
+        {
+          "alpha": "Fearow",
+          "alpha_moveSet": [
+            "Drill Peck",
+            "Heat Wave",
+            "Drill Run",
+            "Work Up"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 5",
+      "pokemon": [
+        {
+          "alpha": "plusle",
+          "alpha_moveSet": [
+            "Charge Beam",
+            "Signal Beam",
+            "Fake Tears",
+            "Uproar"
+          ]
+        },
+        {
+          "alpha": "minccino",
+          "alpha_moveSet": [
+            "Tail Slap",
+            "Attract",
+            "Swagger",
+            "Thunder Wave"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 6",
+      "pokemon": [
+        {
+          "alpha": "sunflora",
+          "alpha_moveSet": [
+            "Giga Drain",
+            "Earth Power",
+            "Leech Seed",
+            "Synthesis"
+          ]
+        },
+        {
+          "alpha": "minun",
+          "alpha_moveSet": [
+            "Thunder",
+            "Grass Knot",
+            "Signal Beam",
+            "Nasty Plot"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 7",
+      "pokemon": [
+        {
+          "alpha": "umbreon",
+          "alpha_moveSet": [
+            "Foul Play",
+            "Swagger",
+            "Toxic",
+            "Moonlight"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 8",
+      "pokemon": [
+        {
+          "alpha": "jynx",
+          "alpha_moveSet": [
+            "Psychic",
+            "Ice Beam",
+            "Role Play",
+            "Taunt"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 9",
+      "pokemon": [
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 10",
+      "pokemon": [
+        {
+          "alpha": "yanmega",
+          "alpha_moveSet": [
+            "Bug Buzz",
+            "Air Slash",
+            "Psychic",
+            "Giga Drain"
+          ]
+        },
+        {
+          "alpha": "altaria",
+          "alpha_moveSet": [
+            "Dragon Claw",
+            "Earthquake",
+            "Roost",
+            "Dragon Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 11",
+      "pokemon": [
+        {
+          "alpha": "gliscor",
+          "alpha_moveSet": [
+            "Acrobatics",
+            "Toxic",
+            "Swords Dance",
+            "Roost"
+          ]
+        },
+        {
+          "alpha": "seviper",
+          "alpha_moveSet": [
+            "Sludge Wave",
+            "Giga Drain",
+            "Flamethrower",
+            "Glare"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 12",
+      "pokemon": [
+        {
+          "alpha": "rapidash",
+          "alpha_moveSet": [
+            "Flamethrower",
+            "Megahorn",
+            "Iron Tail",
+            "Lock-On"
+          ]
+        },
+        {
+          "alpha": "Pinsir",
+          "alpha_moveSet": [
+            "X-Scissor",
+            "Thief",
+            "Close Combat",
+            "Stone Edge"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 13",
+      "pokemon": [
+        {
+          "alpha": "cloyster",
+          "alpha_moveSet": [
+            "Ice Beam",
+            "Whirlpool",
+            "Sleep Talk",
+            "Rest"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 14",
+      "pokemon": [
+        {
+          "alpha": "wigglytuff",
+          "alpha_moveSet": [
+            "Hyper Voice",
+            "Drain Punch",
+            "Shadow Ball",
+            "Thunder Wave"
+          ]
+        },
+        {
+          "alpha": "cottonee",
+          "alpha_moveSet": [
+            "Giga Drain",
+            "Leech Seed",
+            "Toxic",
+            "Substitute"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 15",
+      "pokemon": [
+        {
+          "alpha": "marowak",
+          "alpha_moveSet": [
+            "Bonemerang",
+            "Endevor",
+            "Ice Beam",
+            "Sandstorm"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 16",
+      "pokemon": [
+        {
+          "alpha": "jolteon",
+          "alpha_moveSet": [
+            "Thunderbolt",
+            "Hyper Voice",
+            "Reflect",
+            "Light Screen"
+          ]
+        },
+        {
+          "alpha": "minccino",
+          "alpha_moveSet": [
+            "Tail Slap",
+            "Gunk Shot",
+            "Thief",
+            "Encore"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 17",
+      "pokemon": [
+        {
+          "alpha": "seadra",
+          "alpha_moveSet": [
+            "Surf",
+            "Agility",
+            "Disable",
+            "Substitute"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Route 18",
+      "pokemon": [
+        {
+          "alpha": "tropius",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Leaf Blade",
+            "Earthquake",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "qwilfish",
+          "alpha_moveSet": [
+            "Aqua Jet",
+            "Poison Jab",
+            "Bounce",
+            "Swords Dance"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Abundant Shrine",
+      "pokemon": [
+        {
+          "alpha": "golduck",
+          "alpha_moveSet": [
+            "Surf",
+            "Ice Beam",
+            "Psychic",
+            "Rain Dance"
+          ]
+        },
+        {
+          "alpha": "bronzong",
+          "alpha_moveSet": [
+            "Heavy Slam",
+            "Weather Ball",
+            "Sunny Day",
+            "Solar Beam"
+          ]
+        },
+        {
+          "alpha": "honchkrow",
+          "alpha_moveSet": [
+            "Night Slash",
+            "Heat Wave",
+            "Superpower",
+            "Mud Slap"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Accumula Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Castelia City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Celestial Tower",
+      "pokemon": [
+        {
+          "alpha": "ninetales",
+          "alpha_moveSet": [
+            "Overheat",
+            "Energy Ball",
+            "Pain Split",
+            "Power Swap"
+          ]
+        },
+        {
+          "alpha": "crobat",
+          "alpha_moveSet": [
+            "Sludge Bomb",
+            "Air Slash",
+            "Heat Wave",
+            "Nasty Plot"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Challenger's Cave",
+      "pokemon": [
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        },
+        {
+          "alpha": "cloyster",
+          "alpha_moveSet": [
+            "Surf",
+            "Ice Beam",
+            "Light Screen",
+            "Barrier"
+          ]
+        },
+        {
+          "alpha": "lickilicky",
+          "alpha_moveSet": [
+            "Hyper Beam",
+            "Power Whip",
+            "Thunderbolt",
+            "Heal Bell"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Chargestone Cave",
+      "pokemon": [
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Cold Storage",
+      "pokemon": [
+        {
+          "alpha": "minccino",
+          "alpha_moveSet": [
+            "Hyper Voice",
+            "Thunderbolt",
+            "Grass Knot",
+            "Calm Mind"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Desert Resort",
+      "pokemon": [
+        {
+          "alpha": "sandslash",
+          "alpha_moveSet": [
+            "Dig",
+            "Stone Edge",
+            "Super Fang",
+            "Toxic"
+          ]
+        },
+        {
+          "alpha": "krokorok",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Crunch",
+            "Stone Edge",
+            "Focus Punch"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Dragonspiral Tower",
+      "pokemon": [
+        {
+          "alpha": "dragonite",
+          "alpha_moveSet": [
+            "Dragon Claw",
+            "Heal Bell",
+            "Sleep Talk",
+            "Rest"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Dreamyard",
+      "pokemon": [
+        {
+          "alpha": "munna",
+          "alpha_moveSet": [
+            "Psychic",
+            "Moonlight",
+            "Nightmare",
+            "Yawn"
+          ]
+        },
+        {
+          "alpha": "musharna",
+          "alpha_moveSet": [
+            "Dream Eater",
+            "Hypnosis",
+            "Shadow Ball",
+            "Energy Ball"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Driftveil City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Driftveil Drawbridge",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Giant Chasm",
+      "pokemon": [
+        {
+          "alpha": "clefable",
+          "alpha_moveSet": [
+            "Body Slam",
+            "Stored Power",
+            "Softboiled",
+            "Cosmic Power"
+          ]
+        },
+        {
+          "alpha": "weavile",
+          "alpha_moveSet": [
+            "Ice Punch",
+            "Psycho Cut",
+            "Night Slash",
+            "Swords Dance"
+          ]
+        },
+        {
+          "alpha": "mamoswine",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Icicle Crash",
+            "Amnesia",
+            "Curse"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Guidance chamber",
+      "pokemon": [
+        {
+          "alpha": "lucario",
+          "alpha_moveSet": [
+            "Aura Sphere",
+            "Dark Pulse",
+            "Flash Cannon",
+            "Calm Mind"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Icirrus City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Lostlorn Forest",
+      "pokemon": [
+        {
+          "alpha": "patrat",
+          "alpha_moveSet": [
+            "Secret Power",
+            "Bullet Seed",
+            "Endeavor",
+            "Toxic"
+          ]
+        },
+        {
+          "alpha": "cottonee",
+          "alpha_moveSet": [
+            "Endeavor",
+            "Solar Beam",
+            "Secret Power",
+            "Sunny Day"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Marvelous Bridge",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Mistralton Cave",
+      "pokemon": [
+        {
+          "alpha": "raticate",
+          "alpha_moveSet": [
+            "Skull Bash",
+            "Crunch",
+            "Grass Knot",
+            "Roar"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Moor of Icirrus",
+      "pokemon": [
+        {
+          "alpha": "piloswine",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Ice Shard",
+            "Endeavor",
+            "Sandstorm"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "N's Castle",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Nacrene City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Nature Preserve",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Nature Sanctuary",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Nuvema Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "P2 Laboratory",
+      "pokemon": [
+        {
+          "alpha": "ditto",
+          "alpha_moveSet": [
+            "Transform"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Pinwheel Forest",
+      "pokemon": [
+        {
+          "alpha": "leafeon",
+          "alpha_moveSet": [
+            "Leaf Blade",
+            "Double Kick",
+            "Swords Dance",
+            "Synthesis"
+          ]
+        },
+        {
+          "alpha": "cottonee",
+          "alpha_moveSet": [
+            "Giga drain",
+            "Substitute",
+            "Stun spore",
+            "Leech seed"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Relic Castle",
+      "pokemon": [
+        {
+          "alpha": "krokorok",
+          "alpha_moveSet": [
+            "Earhquake",
+            "Crunch",
+            "Roar",
+            "Stealth Rock"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Relic Passage",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Reversal Mountain",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Seaside Cave",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Strange House",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Striaton City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Trial chamber",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Twist Mountain",
+      "pokemon": [
+        {
+          "alpha": "aggron",
+          "alpha_moveSet": [
+            "Rock Slide",
+            "Earthquake",
+            "Metal Burst",
+            "Heavy Slam"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Undella Bay",
+      "pokemon": [
+        {
+          "alpha": "mantine",
+          "alpha_moveSet": [
+            "Scald",
+            "Swagger",
+            "Toxic",
+            "Roost"
+          ]
+        },
+        {
+          "alpha": "sharpedo",
+          "alpha_moveSet": [
+            "Waterfall",
+            "Crunch",
+            "Close Combat",
+            "Substitute"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Undella Town",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Underground Ruins",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Victory Road",
+      "pokemon": [
+        {
+          "alpha": "Krokorok",
+          "alpha_moveSet": [
+            "Earthquake",
+            "Foul Play",
+            "Stealth Rock",
+            "Swagger"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Village Bridge",
+      "pokemon": [
+        {
+          "alpha": "golduck",
+          "alpha_moveSet": [
+            "Surf",
+            "Ice Beam",
+            "Psychic",
+            "Rain Dance"
+          ]
+        },
+        {
+          "alpha": "musharna",
+          "alpha_moveSet": [
+            "Signal Beam",
+            "Psyshock",
+            "Pain Split",
+            "Magic Coat"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Virbank City",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Virbank Complex",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    },
+    {
+      "location": "Wellspring Cave",
+      "pokemon": [
+        {
+          "alpha": "sableye",
+          "alpha_moveSet": [
+            "Seismic Toss",
+            "Thunder Wave",
+            "Encore",
+            "Pain Split"
+          ]
+        }
+      ]
+    },
+    {
+      "location": "White Forest",
+      "pokemon": [
+        {
+          "alpha": "",
+          "alpha_moveSet": [
+            ""
+          ]
+        }
+      ]
+    }
+  ]
+}
